@@ -1,20 +1,19 @@
 body {
 	background-image:url("achtergrond.jpg"); background-size: 100%;
+
 	}		
-p{
- color: white; 
- margin-left: 190px;
-}
-h1{ 
+
+#link {
 	color: white;
-	margin-left: 190px;
-	}
-li{
- color: white; 
- margin-left: 190px;
-  }
-h2{
-	color: white; 
-	margin-left: 190px;
- }
- 
+}
+
+img {
+	margin-top: 50px;
+	position: relative;
+	float:right;
+}
+
+#tekst{
+	margin-left: 200PX;
+	color :white;
+width: 40%}
